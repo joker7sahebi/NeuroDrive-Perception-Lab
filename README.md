@@ -342,4 +342,4 @@ python -m src.modules.lanes.hybrid_demo --input data/road_sample.mp4 --debug
 This is an open research project. Issues and Pull Requests regarding optimization, new architectures, or edge cases are welcome.
 
 ---
-*Developed by [Your Name] - Computer Vision & ADAS Engineer.*
+*Developed by [kazem sahebi] - Computer Vision & ADAS Engineer.*
