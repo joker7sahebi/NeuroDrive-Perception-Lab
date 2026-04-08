@@ -261,10 +261,6 @@ Pillow>=10.0
 pytest>=8.0
 ```
 
----
-
-*Built as a professional ADAS portfolio project targeting BMW / Bosch / CARIAD.*
-[README.md](https://github.com/user-attachments/files/26547941/README.md)
 
 ---
 
